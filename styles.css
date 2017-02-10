@@ -1,0 +1,42 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* begin writing your CSS below this line */
+
+h1{
+    color:red;
+    text-align:center;
+    font-size:50px;
+    background-color: black;
+    }
+    
+    body{
+        text-align:center;
+        width:400px;
+        background-color: orange;
+        
+        }
+        
+       a:hover { 
+    background-color: black;
+    border-radius:50px;
+}
+
+h1:hover{
+    border-radius:50px;
+    border:10px dashed brown;
+    }
+    
+    body:hover{
+        background-color:gold;
+        font-size:40px;
+        }
+    
+    span.crosshair {
+    cursor: crosshair;
+}
+
+   
+
+        
+  
